@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+mlflow/  # Exclude the virtual environment folder named 'mlflow'
+ENV/
+
+# MLflow logs and artifacts
+mlruns/
